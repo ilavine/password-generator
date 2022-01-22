@@ -117,7 +117,7 @@ button[disabled] {
   resize: none;
   overflow: hidden;
 }
-
+/* Set input tags to one specific color */
 input {
   accent-color: hsl(360, 91%, 36%);;
 }
