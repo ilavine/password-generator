@@ -1,6 +1,6 @@
 # 03 JavaScript: Password Generator
 
-Week 3 homework requires is to modify starter code to create an application that generates random passwords based on criteria that a user has selected. This app runs in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+Week 3 homework requirement is to modify starter code to create an application that generates random passwords based on criteria that a user has selected. This app runs in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
 [GitHub Pages](https://ilavine.github.io/password-generator/)
 
