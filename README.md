@@ -38,7 +38,7 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/password_gen_gif)
+![The Password Generator application displays a red button to "Generate Password".](./Assets/password_gen_gif.gif)
 
 ## What I have completed to meet the Acceptance Criteria
 
